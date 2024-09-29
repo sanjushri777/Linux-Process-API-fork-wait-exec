@@ -51,11 +51,10 @@ int main(void)
 
 
 ##OUTPUT
-```
+
 ![image](https://github.com/user-attachments/assets/76380736-3db6-4020-8136-ddad458945c6)
 
 
-```
 
 
 
