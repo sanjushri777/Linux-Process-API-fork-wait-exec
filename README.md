@@ -52,7 +52,8 @@ int main(void)
 
 ##OUTPUT
 
-![image](https://github.com/user-attachments/assets/76380736-3db6-4020-8136-ddad458945c6)
+![WhatsApp Image 2024-09-28 at 21 10 42_7348fcac](https://github.com/user-attachments/assets/7ad479d5-6f32-4d56-9028-19215c7c2835)
+
 
 
 
@@ -92,10 +93,8 @@ int main() {
 
 
 ##OUTPUT
-```
+![WhatsApp Image 2024-09-28 at 21 10 43_39b0d54a](https://github.com/user-attachments/assets/a9056281-0df8-407e-bf8e-554683a149b9)
 
-![WhatsApp Image 2024-09-28 at 21 10 43_ab5ce113](https://github.com/user-attachments/assets/315241c0-35f9-4292-ad00-fc835d0b73e6)
-```
 
 
 
@@ -137,9 +136,8 @@ int main() {
 
 
 ##OUTPUT
-```
-![WhatsApp Image 2024-09-28 at 21 10 43_91b88c83](https://github.com/user-attachments/assets/350b637e-b925-46b7-9303-f26662446f98)
-```
+![WhatsApp Image 2024-09-28 at 21 10 43_95d9e414](https://github.com/user-attachments/assets/0616a985-217a-4e5b-b5d5-4834fd693b9a)
+
 
 
 
