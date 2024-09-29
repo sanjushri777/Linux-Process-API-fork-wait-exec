@@ -52,10 +52,10 @@ int main(void)
 
 ##OUTPUT
 ```
+![WhatsApp Image 2024-09-28 at 21 10 42_bad435d6](https://github.com/user-attachments/assets/b1e4eb86-33f9-4cfa-a9c3-d1cf410c2700)
 
-
-![WhatsApp Image 2024-09-28 at 21 10 42_2e317a1f](https://github.com/user-attachments/assets/5a0dbc21-d6bd-4afb-a1d9-0c9970724cf3)
 ```
+
 
 
 
