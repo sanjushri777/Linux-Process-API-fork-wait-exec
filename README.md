@@ -1,3 +1,7 @@
+# Name: SANJUSHRI A
+# Register No:212223040187
+
+
 # Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
