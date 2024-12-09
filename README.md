@@ -28,7 +28,7 @@ Test the C Program for the desired output.
 # PROGRAM:
 
 ## C Program to print process ID and parent Process ID using Linux API system calls
-```
+```linux
 #include <stdio.h>
 #include <sys/types.h>
 #include <unistd.h>
